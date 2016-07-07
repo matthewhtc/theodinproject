@@ -1,3 +1,5 @@
+/*problem 1: adding up the sums of all numbers divisble by 3 and 5 under 1000*/
+
 //declare variables
 var sum = 0; 
 
