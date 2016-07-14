@@ -4,17 +4,17 @@ h1 {
 }
 
 #buttons {
-	width: 300px;
+	width: 600px;
 	margin: 0 auto;
 	text-align: center;
 }
 
 #clear {
-	float: left;
+	position: relative;
 }
 
 #trail {
-	float: right;
+	position: relative;
 }
 
 .button {
@@ -32,8 +32,8 @@ h1 {
 }
 
 .box {
-	height: 30px;
-	width: 30px;
+	height: 10px;
+	width: 10px;
 	border: none;
 	display: inline-block;
 	margin: 0;
